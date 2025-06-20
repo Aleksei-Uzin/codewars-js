@@ -4,12 +4,5 @@
  *
  */
 
-const isValidIP = str => {
-  const octets = str.split('.')
-
-  if (octets.length !== 4) return false
-
-  return octets.every(octet =>
-    /^(\d|[1-9]\d|1\d\d|2[0-4]\d|25[0-5])$/.test(octet)
-  )
-}
+const isValidIP = str =>
+  /^((\d|([1-9]\d)|(1\d\d)|(2[0-4]\d)|(25[0-5]))\.?\b){4}$/.test(str)
