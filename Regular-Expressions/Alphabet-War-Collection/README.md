@@ -2,8 +2,8 @@
 
 [View Collection on Codewars](https://www.codewars.com/collections/alphabet-war)
 
-|  #  |  Rank | Name (link) | Solution |
-| --- | ----- | ----------- | -------- |
+|  #  |  Rank | Name | Solution |
+| --- | ----- | ---- | -------- |
 | 1   | 7 kyu | [Alphabet war] | [JavaScript](./7-kyu-Alphabet-war.js) |
 | 2   | 6 kyu | [Alphabet war - airstrike - letters massacre] | [JavaScript](./6-kyu-Alphabet-war-airstrike-letters-massacre.js) |
 | 3   | 6 kyu | [Alphabet war - reinforces massacre] | [JavaScript](./6-kyu-Alphabet-wars-reinforces-massacre.js) |
