@@ -4,4 +4,4 @@
  *
  */
 
-const anyOdd = x => ((x & 0xaaaaaaaa) !== 0 ? 1 : 0)
+const anyOdd = x => ((x & 0xAAAAAAAA) !== 0 ? 1 : 0)
